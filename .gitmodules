@@ -1,0 +1,6 @@
+[submodule "SecureDroid"]
+	path = SecureDroid
+	url = https://github.com/Sanil2108/SecureDroid
+[submodule "SecureDroidbackend"]
+	path = SecureDroidbackend
+	url = https://github.com/Sanil2108/SecureDroidbackend
